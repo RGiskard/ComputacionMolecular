@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head xmlns:xi="http://www.w3.org/2001/XInclude"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- meta -->
+    <meta name="robots" content="index,nofollow,noarchive" />
+<meta name="ncbi_app" content="entrez" /><meta name="ncbi_db" content="popset" /><meta name="ncbi_report" content="fasta" /><meta name="ncbi_format" content="text" /><meta name="ncbi_pagesize" content="20" /><meta name="ncbi_sortorder" content="default" /><meta name="ncbi_pageno" content="1" /><meta name="ncbi_resultcount" content="1" /><meta name="ncbi_op" content="retrieve" /><meta name="ncbi_pdid" content="fasta" /><meta name="ncbi_sessionid" content="CE8D5D51CF150F41_0405SID" /><meta name="ncbi_uidlist" content="224980415" /><meta name="ncbi_filter" content="all" /><meta name="ncbi_stat" content="false" /><meta name="ncbi_hitstat" content="false" />
+
+    
+    <!-- title -->
+    <title>Solanoideae COSII_At5g14320 gene, partial cds.
+ - PopSet - NCBI</title>
+    
+    <!-- Common JS and CSS -->
+    
+		<script type="text/javascript">
+		    var ncbi_startTime = new Date();
+		</script>
+		<script type="text/javascript" src="https://static.pubmed.gov/core/jig/1.14.8/js/jig.min.js"></script>
+				
+			<script type="text/javascript" src="/core/ajax_loader/2.1/js/loadingbar.js"></script> 
+        	<script type="text/javascript" src="/core/ajax_loader/2.1/js/contentLoader.js"></script>
+        	<link type="text/css" rel="stylesheet" href="/core/ajax_loader/2.1/css/loadingbar.css" />
+			
+			  
+    
+    <link xmlns="http://www.w3.org/1999/xhtml" type="text/css" rel="stylesheet" href="//static.pubmed.gov/portal/portal3rc.fcgi/4181515/css/3881636/3579733.css" xml:base="http://127.0.0.1/sites/static/header_footer/" />    
+<link rel="shortcut icon" href="//www.ncbi.nlm.nih.gov/favicon.ico" /><meta name="ncbi_phid" content="CE89A175CF18A4910000000008AF04BB.m_19" /><script type="text/javascript"><!--
+var ScriptPath = '/portal/';
+var objHierarchy = {"name":"EntrezSystem2","type":"Layout","realname":"EntrezSystem2",
+"children":[{"name":"EntrezSystem2.PEntrez","type":"Cluster","realname":"EntrezSystem2.PEntrez",
+"children":[{"name":"EntrezSystem2.PEntrez.DbConnector","type":"Portlet","realname":"EntrezSystem2.PEntrez.PEntrez.DbConnector","shortname":"DbConnector"},
+{"name":"EntrezSystem2.PEntrez.ParamContainer","type":"Portlet","realname":"EntrezSystem2.PEntrez.PEntrez.ParamContainer","shortname":"ParamContainer"},
+{"name":"EntrezSystem2.PEntrez.MyNcbi","type":"Portlet","realname":"EntrezSystem2.PEntrez.PEntrez.MyNcbi","shortname":"MyNcbi"},
+{"name":"EntrezSystem2.PEntrez.UserPreferenceUrlParamContainer","type":"Portlet","realname":"EntrezSystem2.PEntrez.PEntrez.UserPreferenceUrlParamContainer","shortname":"UserPreferenceUrlParamContainer"},
+{"name":"EntrezSystem2.PEntrez.GridProperty","type":"Portlet","realname":"EntrezSystem2.PEntrez.PEntrez.GridProperty","shortname":"GridProperty"},
+{"name":"EntrezSystem2.PEntrez.Popset","type":"Cluster","realname":"EntrezSystem2.PEntrez.Popset",
+"children":[{"name":"EntrezSystem2.PEntrez.Popset.Entrez_PageController","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.Entrez_PageController","shortname":"Entrez_PageController"},
+{"name":"EntrezSystem2.PEntrez.Popset.Entrez_SearchBar","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.Entrez_SearchBar","shortname":"Entrez_SearchBar"},
+{"name":"EntrezSystem2.PEntrez.Popset.Entrez_BotRequest","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.Entrez_BotRequest","shortname":"Entrez_BotRequest"},
+{"name":"EntrezSystem2.PEntrez.Popset.NoPortlet","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.NoPortlet","shortname":"NoPortlet"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_Limits","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_Limits","shortname":"Popset_Limits"},
+{"name":"EntrezSystem2.PEntrez.Popset.Entrez_Facets","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.Entrez_Facets","shortname":"Entrez_Facets"},
+{"name":"EntrezSystem2.PEntrez.Popset.Entrez_Clipboard","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.Entrez_Clipboard","shortname":"Entrez_Clipboard"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_StaticParts","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_StaticParts","shortname":"Popset_StaticParts"},
+{"name":"EntrezSystem2.PEntrez.Popset.Entrez_Messages","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.Entrez_Messages","shortname":"Entrez_Messages"},
+{"name":"EntrezSystem2.PEntrez.Popset.NcbiJSCheck","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.NcbiJSCheck","shortname":"NcbiJSCheck"},
+{"name":"EntrezSystem2.PEntrez.Popset.NCBIFooter_dynamic","type":"Cluster","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.NCBIFooter_dynamic",
+"children":[{"name":"EntrezSystem2.PEntrez.Popset.NCBIFooter_dynamic.Footer_ExtraData","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.NCBIFooter_dynamic.Footer_ExtraData","shortname":"Footer_ExtraData"},
+{"name":"EntrezSystem2.PEntrez.Popset.NCBIFooter_dynamic.NCBIFooter_dynamic","type":"Cluster","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.NCBIFooter_dynamic.NCBIFooter_dynamic",
+"children":[{"name":"EntrezSystem2.PEntrez.Popset.NCBIFooter_dynamic.NCBIFooter_dynamic.NCBIBreadcrumbs","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.NCBIFooter_dynamic.NCBIFooter_dynamic.NCBIBreadcrumbs","shortname":"NCBIBreadcrumbs"},
+{"name":"EntrezSystem2.PEntrez.Popset.NCBIFooter_dynamic.NCBIFooter_dynamic.NCBIHelpDesk","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.NCBIFooter_dynamic.NCBIFooter_dynamic.NCBIHelpDesk","shortname":"NCBIHelpDesk"},
+{"name":"EntrezSystem2.PEntrez.Popset.NCBIFooter_dynamic.NCBIFooter_dynamic.NCBIApplog_NoScript_Ping","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Entrez_Database.NCBIFooter_dynamic.NCBIFooter_dynamic.NCBIApplog_NoScript_Ping","shortname":"NCBIApplog_NoScript_Ping"}]}]},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel","type":"Cluster","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel",
+"children":[{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.blankToolPanel","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_ResultsPanel.blankToolPanel","shortname":"blankToolPanel"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_ResultsController","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_ResultsController","shortname":"Popset_ResultsController"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_Filters","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_ResultsPanel.Entrez_Filters","shortname":"Entrez_Filters"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_Pager","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_ResultsPanel.Entrez_Pager","shortname":"Entrez_Pager"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_DisplayBar","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_DisplayBar","shortname":"Popset_DisplayBar"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.HelpFormAttributes","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_ResultsPanel.HelpFormAttributes","shortname":"HelpFormAttributes"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_Collections","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_ResultsPanel.Entrez_Collections","shortname":"Entrez_Collections"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.SpellCheck","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_ResultsPanel.SpellCheck","shortname":"SpellCheck"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.SearchEngineReferralCheck","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_ResultsPanel.SearchEngineReferralCheck","shortname":"SearchEngineReferralCheck"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.MultiSensorPortlet","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_ResultsPanel.MultiSensorPortlet","shortname":"MultiSensorPortlet"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.WrongDbSensor","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_ResultsPanel.WrongDbSensor","shortname":"WrongDbSensor"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.KnowledgePanel","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_ResultsPanel.KnowledgePanel","shortname":"KnowledgePanel"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.HistoryDisplay","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_ResultsPanel.HistoryDisplay","shortname":"HistoryDisplay"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Discovery_SearchDetails","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Entrez_ResultsPanel.Discovery_SearchDetails","shortname":"Discovery_SearchDetails"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer","type":"Cluster","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer",
+"children":[{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerTitle","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerTitle","shortname":"Popset_ViewerTitle"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport","shortname":"Popset_ViewerReport"}]},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_SingleItemSupl","type":"Cluster","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_SingleItemSupl",
+"children":[{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_SingleItemSupl.DiscoveryDbLinks","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_SingleItemSupl.Entrez_SingleItemSupl.DiscoveryDbLinks","shortname":"DiscoveryDbLinks"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_SingleItemSupl.Popset_AnalysisTools","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_SingleItemSupl.Popset_AnalysisTools","shortname":"Popset_AnalysisTools"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_SingleItemSupl.Popset_PubMedLinks","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_SingleItemSupl.Popset_PubMedLinks","shortname":"Popset_PubMedLinks"},
+{"name":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_SingleItemSupl.Popset_PopsetLinks","type":"Portlet","realname":"EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_SingleItemSupl.Popset_PopsetLinks","shortname":"Popset_PopsetLinks"}]}]}]}]}]};
+--></script>
+<meta name='referrer' content='origin-when-cross-origin'/><link type="text/css" rel="stylesheet" href="//static.pubmed.gov/portal/portal3rc.fcgi/4185669/css/3808861/3917732/3974050/3751656/3395415/4091728/3257261/3349422.css" /><link type="text/css" rel="stylesheet" href="//static.pubmed.gov/portal/portal3rc.fcgi/4185669/css/3501913.css" media="print" /><script type="text/javascript">
+
+var ObjectLinks=[{i:0, ename: "p$ExL", esid:"*", sname: "p$ExL", ssid:"*", dname:"p$el", dsid:"0",m:"CopyValue",p:[],f: function(src, dst) {fn_CopyValue(src, dst);}}]
+
+
+var ActiveNames = {"p$ExL":1, "EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.ExpandGaps":0, "EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.InUse":0, "EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.ItemCount":0, "EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.db":0, "EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.display_type":0, "EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.maxdownloadsize":0, "EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.report":0};
+</script></head>
+    <body>
+        <form enctype="application/x-www-form-urlencoded" name="EntrezForm" method="post" onsubmit="return false;" action="/popset" id="EntrezForm">
+            <div id="maincontent" class="container">
+                <div>
+  <div id="viewercontent1" class="seq gbff " val="224980415" SequenceSize="52275" VirtualSequence=""></div>
+  <div class="hidden">
+    <input name="EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.db" sid="1" type="hidden" value="popset" />
+    <input name="EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.report" sid="1" type="hidden" value="fasta" />
+    <input name="EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.maxdownloadsize" sid="1" type="hidden" value="1000000" />
+    <input name="EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.display_type" sid="1" type="hidden" value="single" />
+    <input name="EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.ItemCount" sid="1" type="hidden" value="1" />
+    <input name="EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.InUse" sid="1" type="hidden" value="" />
+    <input name="EntrezSystem2.PEntrez.Popset.Popset_ResultsPanel.Popset_Viewer.Popset_ViewerReport.ExpandGaps" sid="1" type="hidden" value="" />
+  </div>
+  <div id="fh_bar">
+    <div id="fh_bar_details_body"></div>
+    <div id="fh_bar_warning"></div>
+    <div class="fh_bar_left">
+      <select id="fh_bar_select" ref="$ref">
+        <option>no features</option>
+      </select>
+      <a id="fh_bar_to_feature" href="#" title="Jump to the feature" ref="discoid=featurehighlight&amp;log$=featurehighlight">Feature</a>
+      <div id="feat_nav_control" class="hide nav_control">
+        <button id="fh_bar_first" ref="discoid=featurehighlight&amp;log$=featurehighlight" href="#">First</button>
+        <button id="fh_bar_previous" ref="discoid=featurehighlight&amp;log$=featurehighlight">Previous</button>
+        <span id="fh_bar_total" ref="discoid=featurehighlight&amp;log$=featurehighlight"></span>
+        <button id="fh_bar_next" ref="discoid=featurehighlight&amp;log$=featurehighlight">Next</button>
+        <button id="fh_bar_last" ref="discoid=featurehighlight&amp;log$=featurehighlight">Last</button>
+      </div>
+      <span id="fh_bar_message"></span>
+    </div>
+    <div class="fh_bar_right">
+      <span>Display: </span>
+      <a id="fh_bar_fasta" href="#" ref="discoid=featurehighlight&amp;log$=featurehighlight">FASTA</a>
+      <a id="fh_bar_genbank" href="#" ref="discoid=featurehighlight&amp;log$=featurehighlight">GenBank</a>
+      <a href="/books/NBK44863/#sequencesquickstart.How_can_I_locate_and" ref="discoid=featurehighlight&amp;log$=featurehighlight">Help</a>
+      <button id="fh_bar_hide" ref="discoid=featurehighlight&amp;log$=featurehighlight">Close</button>
+    </div>
+    <span class="fh_bar_details_ph">
+      <a id="fh_bar_details" href="#" class="tgt_dark">Details</a>
+    </span>
+  </div>
+</div>
+
+            </div>
+        <input type="hidden" name="p$a" id="p$a" /><input type="hidden" name="p$l" id="p$l" value="EntrezSystem2" /><input type="hidden" name="p$st" id="p$st" value="popset" /><input name="SessionId" id="SessionId" value="CE8D5D51CF150F41_0405SID" disabled="disabled" type="hidden" /><input name="Snapshot" id="Snapshot" value="/projects/Sequences/SeqDbRelease@1.110" disabled="disabled" type="hidden" /></form>
+    
+
+<!-- CE8D5D51CF150F41_0405SID /projects/Sequences/SeqDbRelease@1.110 portal102 v4.1.r585844 Mon, May 06 2019 02:53:16 -->
+
+
+<script type='text/javascript' src='/portal/js/portal.js'></script><script type="text/javascript" src="//static.pubmed.gov/portal/portal3rc.fcgi/4185669/js/4184195/3217400/4176568/4177091/1383866.js" snapshot="popset"></script></body>
+</html>
